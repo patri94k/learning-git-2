@@ -1,0 +1,3 @@
+ npm exec html-validate . .html - wszystkie pliki
+ npm exec html-validate index.html - konkretny index.html
+
